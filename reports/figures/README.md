@@ -1,0 +1,1 @@
+Use this directory to store produced figures

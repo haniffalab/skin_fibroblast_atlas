@@ -1,0 +1,2 @@
+*.ipynb filter=strip-notebook-output
+*.output.ipynb !filter
