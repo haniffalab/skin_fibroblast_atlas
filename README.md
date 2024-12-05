@@ -1,10 +1,9 @@
 # Skin fibroblast atlas
 
-A template repo for the standard Haniffa Lab project
 
 ## About
 
-"Figures" contains scripts for producing figures
+"Figures" contains scripts for producing figures \\
 "integration" contains scripts used for integration
 
 ## Citation
