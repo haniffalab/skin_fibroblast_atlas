@@ -1,1 +1,0 @@
-Use this directory to store environment information

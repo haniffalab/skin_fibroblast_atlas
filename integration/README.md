@@ -1,1 +1,1 @@
-Use this directory to store analysis scripts
+files for integration (scvi + scpoli)

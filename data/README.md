@@ -1,1 +1,2 @@
-Use this directory to store small data files used for your analysis scripts (but not large genomic files)
+scRNA-seq data used in scrna_seq_data.csv \\
+data used will be made available via webatlas upon publication
