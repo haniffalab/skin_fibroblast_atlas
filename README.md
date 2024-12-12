@@ -9,14 +9,6 @@ Skin fibroblast subtypes are uncertain, and different studies typically use dist
 
 Please cite our pre-print if you use this work. TBC
 
-```
-@article{xxx2023paper,
-  title={Title},
-  author={Author},
-  journal={arXiv},
-  year={2023}
-}
-```
 
  ### Contact
 
