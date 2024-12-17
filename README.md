@@ -3,7 +3,8 @@
 Skin fibroblast subtypes are uncertain, and different studies typically use distinct nomenclature. We performed the largest integration of scRNA-seq data for skin fibroblasts, combined with single-cell resolution spatial transcriptomics, to decode fibroblast heterogeneity.
 
 "Integration" contains scripts used for integration\
-"Figures" contains scripts for producing figures 
+"Figures" contains scripts for producing figures \
+Data (scRNA, Xenium (in progress), Visium (in progress)) can be visualized and downloaded here (currently password protected (password in manuscript under submission)): https://app.cellatlas.io/skin-fibroblast/
 
 <h1 align="center">
     <picture>
