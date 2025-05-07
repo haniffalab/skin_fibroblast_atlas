@@ -1,0 +1,601 @@
+Gene,logFC,p-value,Group
+APOE,5.1067867,0.00000e+00,F3: FRC-like
+CXCL12,4.576376,0.00000e+00,F3: FRC-like
+IGFBP7,2.4296026,0.00000e+00,F3: FRC-like
+CXCL14,3.6259897,0.00000e+00,F3: FRC-like
+C3,4.124011,0.00000e+00,F3: FRC-like
+SOD3,2.6876626,0.00000e+00,F3: FRC-like
+CCL19,6.143259,0.00000e+00,F3: FRC-like
+CFD,3.1460001,0.00000e+00,F3: FRC-like
+RPS4X,1.6930614,0.00000e+00,F3: FRC-like
+PTGDS,3.3595457,0.00000e+00,F3: FRC-like
+SERPING1,1.9744971,0.00000e+00,F3: FRC-like
+APOD,3.0829244,0.00000e+00,F3: FRC-like
+RPL10,1.6851487,0.00000e+00,F3: FRC-like
+CFH,2.141725,0.00000e+00,F3: FRC-like
+C1S,1.7139579,0.00000e+00,F3: FRC-like
+ZFP36L2,2.0755208,0.00000e+00,F3: FRC-like
+HLA-B,1.7841635,0.00000e+00,F3: FRC-like
+NFIA,2.6087303,0.00000e+00,F3: FRC-like
+EFEMP1,2.4361463,0.00000e+00,F3: FRC-like
+RPL12,1.1900324,0.00000e+00,F3: FRC-like
+SELENOP,2.1187491,0.00000e+00,F3: FRC-like
+GGT5,2.824583,0.00000e+00,F3: FRC-like
+RPL36A,1.6982213,0.00000e+00,F3: FRC-like
+IFITM3,1.3066607,0.00000e+00,F3: FRC-like
+CCDC80,1.4023626,0.00000e+00,F3: FRC-like
+ABI3BP,2.0801103,0.00000e+00,F3: FRC-like
+CST3,1.329478,0.00000e+00,F3: FRC-like
+EEF1A1,1.229287,0.00000e+00,F3: FRC-like
+TNFSF13B,4.2528353,0.00000e+00,F3: FRC-like
+SNHG8,1.7935537,0.00000e+00,F3: FRC-like
+RBP5,4.185686,0.00000e+00,F3: FRC-like
+SOCS3,2.183965,0.00000e+00,F3: FRC-like
+RPL37,1.0356717,0.00000e+00,F3: FRC-like
+CCL2,2.5804255,0.00000e+00,F3: FRC-like
+ZFP36L1,1.4109243,0.00000e+00,F3: FRC-like
+PNRC1,1.5689389,0.00000e+00,F3: FRC-like
+RPL7A,1.0511293,0.00000e+00,F3: FRC-like
+FGL2,2.8343484,0.00000e+00,F3: FRC-like
+RPL22,1.467029,0.00000e+00,F3: FRC-like
+BTG1,1.7201961,0.00000e+00,F3: FRC-like
+MT-ND3,1.7332804,0.00000e+00,F3: FRC-like
+RPS8,0.88268596,0.00000e+00,F3: FRC-like
+B2M,0.82725877,0.00000e+00,F3: FRC-like
+SNED1,2.4378529,0.00000e+00,F3: FRC-like
+ADH1B,3.2496774,0.00000e+00,F3: FRC-like
+RPL39,2.1253448,0.00000e+00,F3: FRC-like
+TMEM176A,1.8793625,0.00000e+00,F3: FRC-like
+ABCA8,3.489617,0.00000e+00,F3: FRC-like
+RPS23,0.8500003,0.00000e+00,F3: FRC-like
+FGF7,2.466828,0.00000e+00,F3: FRC-like
+CLU,2.126194,0.00000e+00,F3: FRC-like
+RPL32,0.8658211,0.00000e+00,F3: FRC-like
+TMEM176B,1.6552441,0.00000e+00,F3: FRC-like
+CYP7B1,1.7531179,0.00000e+00,F3: FRC-like
+VCAN,1.391159,0.00000e+00,F3: FRC-like
+MT-ND1,1.4436312,0.00000e+00,F3: FRC-like
+RARRES2,1.4983369,0.00000e+00,F3: FRC-like
+TFPI,2.1359746,0.00000e+00,F3: FRC-like
+IFITM2,1.3171508,0.00000e+00,F3: FRC-like
+RPL34,0.83089477,0.00000e+00,F3: FRC-like
+RPL26,0.8093146,0.00000e+00,F3: FRC-like
+CTSH,2.1901522,0.00000e+00,F3: FRC-like
+GSN,1.4904473,0.00000e+00,F3: FRC-like
+HLA-A,1.1075895,0.00000e+00,F3: FRC-like
+HSPA1A,1.6382103,0.00000e+00,F3: FRC-like
+RPS27,0.98138434,0.00000e+00,F3: FRC-like
+CD74,2.7438998,0.00000e+00,F3: FRC-like
+MT2A,1.7172005,0.00000e+00,F3: FRC-like
+SOD2,1.4603517,0.00000e+00,F3: FRC-like
+ZFP36,1.6574479,0.00000e+00,F3: FRC-like
+RPS28,0.9209929,0.00000e+00,F3: FRC-like
+CEBPD,1.5496979,0.00000e+00,F3: FRC-like
+CYP1B1,2.7370863,0.00000e+00,F3: FRC-like
+RPL35A,0.80691093,0.00000e+00,F3: FRC-like
+DCLK1,1.6987743,0.00000e+00,F3: FRC-like
+RPL35,0.9041439,0.00000e+00,F3: FRC-like
+CYGB,2.487532,0.00000e+00,F3: FRC-like
+COL15A1,1.7110229,0.00000e+00,F3: FRC-like
+LGALS3,0.9222501,0.00000e+00,F3: FRC-like
+RPL41,0.82604337,0.00000e+00,F3: FRC-like
+TNFSF10,2.3338177,0.00000e+00,F3: FRC-like
+TPT1,0.79245055,0.00000e+00,F3: FRC-like
+RPS13,0.79163957,0.00000e+00,F3: FRC-like
+LAMA4,1.3829535,0.00000e+00,F3: FRC-like
+IL11RA,1.7808115,0.00000e+00,F3: FRC-like
+MGP,1.3582753,0.00000e+00,F3: FRC-like
+APOC1,4.2021947,0.00000e+00,F3: FRC-like
+NFIB,1.800682,0.00000e+00,F3: FRC-like
+NOP53,1.2626119,0.00000e+00,F3: FRC-like
+PPA1,1.295371,0.00000e+00,F3: FRC-like
+RPS12,0.72982574,0.00000e+00,F3: FRC-like
+TXNIP,1.7042633,0.00000e+00,F3: FRC-like
+MT-CO2,1.1712618,0.00000e+00,F3: FRC-like
+RPL29,0.80938905,0.00000e+00,F3: FRC-like
+CH25H,2.3984685,0.00000e+00,F3: FRC-like
+TMSB4X,0.9549993,0.00000e+00,F3: FRC-like
+EBF1,1.6435168,0.00000e+00,F3: FRC-like
+MT-CYB,1.1687857,0.00000e+00,F3: FRC-like
+RPL14,0.74294573,0.00000e+00,F3: FRC-like
+RPS24,0.64145833,0.00000e+00,F3: FRC-like
+APCDD1,4.323153,0.00000e+00,F1: Superficial
+TWIST2,2.5716825,0.00000e+00,F1: Superficial
+PLPP3,2.4345284,0.00000e+00,F1: Superficial
+COL18A1,2.4910228,0.00000e+00,F1: Superficial
+F13A1,4.6078205,0.00000e+00,F1: Superficial
+CD9,1.9829272,0.00000e+00,F1: Superficial
+IGFBP4,2.0483513,0.00000e+00,F1: Superficial
+PMP22,1.783317,0.00000e+00,F1: Superficial
+ZFP36L1,1.8787786,0.00000e+00,F1: Superficial
+CEBPD,2.356711,0.00000e+00,F1: Superficial
+ZFP36L2,2.191186,0.00000e+00,F1: Superficial
+CEBPB,2.2817197,0.00000e+00,F1: Superficial
+SOD3,2.223636,0.00000e+00,F1: Superficial
+C1S,1.5569468,0.00000e+00,F1: Superficial
+SERPING1,1.6888565,0.00000e+00,F1: Superficial
+MT-CO2,1.7758929,0.00000e+00,F1: Superficial
+C1R,1.6417977,0.00000e+00,F1: Superficial
+GLUL,2.0528276,0.00000e+00,F1: Superficial
+CYP26B1,3.4968753,0.00000e+00,F1: Superficial
+PNRC1,1.8160245,0.00000e+00,F1: Superficial
+MT-ND3,2.0322149,0.00000e+00,F1: Superficial
+FBLN2,1.685356,0.00000e+00,F1: Superficial
+HLA-B,1.6391743,0.00000e+00,F1: Superficial
+SELENOP,2.020506,0.00000e+00,F1: Superficial
+PTGDS,2.7591386,0.00000e+00,F1: Superficial
+RPL10,1.494345,0.00000e+00,F1: Superficial
+SPRY1,2.449008,0.00000e+00,F1: Superficial
+EEF1A1,1.1700206,0.00000e+00,F1: Superficial
+MT-ND1,1.6775846,0.00000e+00,F1: Superficial
+MT-CYB,1.6312568,0.00000e+00,F1: Superficial
+RPS4X,1.2779554,0.00000e+00,F1: Superficial
+HLA-A,1.3236567,0.00000e+00,F1: Superficial
+PAPPA,2.618173,0.00000e+00,F1: Superficial
+ROBO2,2.3233554,0.00000e+00,F1: Superficial
+MT-ND2,1.543447,0.00000e+00,F1: Superficial
+NKD2,3.192101,0.00000e+00,F1: Superficial
+MT-ATP6,1.6961379,0.00000e+00,F1: Superficial
+COL23A1,3.4213758,0.00000e+00,F1: Superficial
+CFD,2.024292,0.00000e+00,F1: Superficial
+PGRMC1,1.6531785,0.00000e+00,F1: Superficial
+AHR,1.6057773,0.00000e+00,F1: Superficial
+SFRP2,1.6288083,0.00000e+00,F1: Superficial
+F10,2.342929,0.00000e+00,F1: Superficial
+SUMO2,1.9174938,0.00000e+00,F1: Superficial
+MT-CO3,1.5663284,0.00000e+00,F1: Superficial
+B2M,0.8555882,0.00000e+00,F1: Superficial
+ANPEP,2.0618784,0.00000e+00,F1: Superficial
+DCN,1.0950426,0.00000e+00,F1: Superficial
+RPL22,1.3118671,0.00000e+00,F1: Superficial
+DUSP1,1.4597999,0.00000e+00,F1: Superficial
+DIO2,2.279153,0.00000e+00,F1: Superficial
+RPL36A,1.3157895,0.00000e+00,F1: Superficial
+RPL39,1.9049826,0.00000e+00,F1: Superficial
+HLA-E,1.3261088,0.00000e+00,F1: Superficial
+SOD2,1.6695116,0.00000e+00,F1: Superficial
+TSC22D3,1.829453,0.00000e+00,F1: Superficial
+COL6A5,3.0317192,0.00000e+00,F1: Superficial
+LEPR,3.4580116,0.00000e+00,F1: Superficial
+APOD,1.8082026,0.00000e+00,F1: Superficial
+TCF4,1.2341632,0.00000e+00,F1: Superficial
+CAV1,1.2904688,0.00000e+00,F1: Superficial
+THBS1,1.9968832,0.00000e+00,F1: Superficial
+ZBTB20,1.3332394,0.00000e+00,F1: Superficial
+H3F3A,2.026882,0.00000e+00,F1: Superficial
+ADIRF,1.3240945,0.00000e+00,F1: Superficial
+MT-CO1,1.2128273,0.00000e+00,F1: Superficial
+COL4A1,1.7746089,0.00000e+00,F1: Superficial
+TWIST1,1.482495,0.00000e+00,F1: Superficial
+IL6ST,1.3975673,0.00000e+00,F1: Superficial
+IFI27,1.948659,0.00000e+00,F1: Superficial
+PIK3R1,1.5800555,0.00000e+00,F1: Superficial
+AHNAK,1.1413997,0.00000e+00,F1: Superficial
+MTRNR2L12,2.0197144,0.00000e+00,F1: Superficial
+PRRX2,1.5612884,0.00000e+00,F1: Superficial
+MT-ND4L,1.5725341,0.00000e+00,F1: Superficial
+C1orf198,1.7224232,0.00000e+00,F1: Superficial
+LAMC3,3.0713944,0.00000e+00,F1: Superficial
+TNXB,1.9601775,0.00000e+00,F1: Superficial
+ARRDC3,1.7272041,0.00000e+00,F1: Superficial
+STC2,3.7835076,0.00000e+00,F1: Superficial
+NCKAP5,2.7417917,0.00000e+00,F1: Superficial
+DUSP4,3.0852478,0.00000e+00,F1: Superficial
+CHCHD10,1.6343426,0.00000e+00,F1: Superficial
+RPS28,0.86764973,0.00000e+00,F1: Superficial
+LY6E,1.2250836,0.00000e+00,F1: Superficial
+PID1,1.8453714,0.00000e+00,F1: Superficial
+RASD1,1.9641663,0.00000e+00,F1: Superficial
+HSPA1A,1.4989344,0.00000e+00,F1: Superficial
+PTGS2,2.5647535,0.00000e+00,F1: Superficial
+IFITM3,0.9554633,0.00000e+00,F1: Superficial
+PDGFRA,1.3376889,0.00000e+00,F1: Superficial
+FST,2.1590345,0.00000e+00,F1: Superficial
+RSPO1,3.509917,0.00000e+00,F1: Superficial
+SVIL,1.4791844,0.00000e+00,F1: Superficial
+RPL12,0.81707567,0.00000e+00,F1: Superficial
+ARHGAP29,1.8570001,0.00000e+00,F1: Superficial
+ITIH5,1.9623355,0.00000e+00,F1: Superficial
+ZFAND5,1.3661475,0.00000e+00,F1: Superficial
+RND3,1.2465212,0.00000e+00,F1: Superficial
+GPNMB,1.0818149,0.00000e+00,F1: Superficial
+INHBA,2.6958618,0.00000e+00,F6: Inflammatory myofibroblast
+PRSS23,1.8807056,0.00000e+00,F6: Inflammatory myofibroblast
+COL4A1,1.9616207,0.00000e+00,F6: Inflammatory myofibroblast
+PRKG1,1.7724618,0.00000e+00,F6: Inflammatory myofibroblast
+COL5A3,2.1116602,0.00000e+00,F6: Inflammatory myofibroblast
+COL4A2,1.688526,0.00000e+00,F6: Inflammatory myofibroblast
+SAT1,1.8636863,0.00000e+00,F6: Inflammatory myofibroblast
+HLA-B,1.3460884,0.00000e+00,F6: Inflammatory myofibroblast
+SGIP1,2.388894,0.00000e+00,F6: Inflammatory myofibroblast
+GPM6B,2.9743686,0.00000e+00,F6: Inflammatory myofibroblast
+LUM,1.1958944,0.00000e+00,F6: Inflammatory myofibroblast
+WNT5A,2.6485476,0.00000e+00,F6: Inflammatory myofibroblast
+CSGALNACT1,2.2000995,0.00000e+00,F6: Inflammatory myofibroblast
+MME,2.5109093,0.00000e+00,F6: Inflammatory myofibroblast
+BGN,1.1580427,0.00000e+00,F6: Inflammatory myofibroblast
+COL7A1,2.4928918,0.00000e+00,F6: Inflammatory myofibroblast
+RUNX2,2.0250444,0.00000e+00,F6: Inflammatory myofibroblast
+PTPRG,1.4914118,0.00000e+00,F6: Inflammatory myofibroblast
+IFITM3,0.97576284,0.00000e+00,F6: Inflammatory myofibroblast
+GLIS3,1.6590002,0.00000e+00,F6: Inflammatory myofibroblast
+GGT5,1.582822,0.00000e+00,F6: Inflammatory myofibroblast
+TIMP1,1.1588503,0.00000e+00,F6: Inflammatory myofibroblast
+HES4,1.8838204,0.00000e+00,F6: Inflammatory myofibroblast
+KIF26B,1.9877422,0.00000e+00,F6: Inflammatory myofibroblast
+MMP1,4.55709,0.00000e+00,F6: Inflammatory myofibroblast
+SOX5,3.1383862,0.00000e+00,F6: Inflammatory myofibroblast
+CPE,1.5815095,0.00000e+00,F6: Inflammatory myofibroblast
+FRMD4A,2.1087987,0.00000e+00,F6: Inflammatory myofibroblast
+MAP3K5,2.6026967,0.00000e+00,F6: Inflammatory myofibroblast
+PRRX1,0.827302,0.00000e+00,F6: Inflammatory myofibroblast
+CHN1,1.9016978,0.00000e+00,F6: Inflammatory myofibroblast
+TSPAN9,1.6981586,0.00000e+00,F6: Inflammatory myofibroblast
+EPAS1,1.5031518,0.00000e+00,F6: Inflammatory myofibroblast
+TENM4,2.393796,0.00000e+00,F6: Inflammatory myofibroblast
+SEMA5A,1.7676203,0.00000e+00,F6: Inflammatory myofibroblast
+SPHK1,1.5553426,0.00000e+00,F6: Inflammatory myofibroblast
+COL27A1,1.5554938,0.00000e+00,F6: Inflammatory myofibroblast
+EPSTI1,2.0466168,0.00000e+00,F6: Inflammatory myofibroblast
+STARD13,1.6697224,0.00000e+00,F6: Inflammatory myofibroblast
+SULF1,1.8295788,0.00000e+00,F6: Inflammatory myofibroblast
+GUCY1A1,1.5084609,0.00000e+00,F6: Inflammatory myofibroblast
+PMEPA1,1.1549543,0.00000e+00,F6: Inflammatory myofibroblast
+DPYD,1.386184,0.00000e+00,F6: Inflammatory myofibroblast
+TSPAN5,1.5756277,0.00000e+00,F6: Inflammatory myofibroblast
+CHST11,1.6004336,1.45004e-309,F6: Inflammatory myofibroblast
+PITPNC1,1.8757064,6.87493e-304,F6: Inflammatory myofibroblast
+LAMB1,1.2197872,1.14257e-304,F6: Inflammatory myofibroblast
+TDO2,3.7714515,4.02660e-298,F6: Inflammatory myofibroblast
+CD82,1.5468645,8.77706e-290,F6: Inflammatory myofibroblast
+C4orf48,1.3856821,2.18406e-285,F6: Inflammatory myofibroblast
+PRDM1,1.8415577,4.77907e-279,F6: Inflammatory myofibroblast
+ASAP1,1.0475726,2.11106e-274,F6: Inflammatory myofibroblast
+PLD1,1.9898561,3.11591e-270,F6: Inflammatory myofibroblast
+TNFRSF21,2.2570424,8.25367e-270,F6: Inflammatory myofibroblast
+CA12,2.255897,6.41572e-269,F6: Inflammatory myofibroblast
+AOPEP,1.0366243,3.70105e-268,F6: Inflammatory myofibroblast
+SH3RF3,1.6541066,5.29114e-265,F6: Inflammatory myofibroblast
+TRPS1,1.1423122,6.00698e-265,F6: Inflammatory myofibroblast
+MMP3,5.1715403,2.70774e-262,F6: Inflammatory myofibroblast
+FP236383.3,1.5416298,1.33963e-263,F6: Inflammatory myofibroblast
+DIO2,1.4376601,4.62947e-263,F6: Inflammatory myofibroblast
+UNC5B,1.665223,3.08570e-261,F6: Inflammatory myofibroblast
+PLEKHA5,1.2854282,7.60726e-259,F6: Inflammatory myofibroblast
+PTPRE,2.1124017,4.57257e-258,F6: Inflammatory myofibroblast
+CYTOR,1.0597994,6.21155e-259,F6: Inflammatory myofibroblast
+BICC1,0.9868387,3.83750e-259,F6: Inflammatory myofibroblast
+BMP1,1.1288034,4.28462e-255,F6: Inflammatory myofibroblast
+MSC-AS1,1.5576873,1.89245e-254,F6: Inflammatory myofibroblast
+GFPT2,1.5672665,4.72929e-254,F6: Inflammatory myofibroblast
+PRR16,1.6988724,8.70665e-253,F6: Inflammatory myofibroblast
+CCN4,1.6157064,8.18361e-251,F6: Inflammatory myofibroblast
+ANKRD28,1.2427306,1.93014e-249,F6: Inflammatory myofibroblast
+ST5,1.3362043,3.82718e-247,F6: Inflammatory myofibroblast
+ELOVL5,1.3821392,2.82965e-246,F6: Inflammatory myofibroblast
+PDE3A,2.5298047,1.98248e-245,F6: Inflammatory myofibroblast
+CBLB,1.299563,3.11929e-244,F6: Inflammatory myofibroblast
+COL6A3,0.6547348,4.29033e-245,F6: Inflammatory myofibroblast
+ADAMTS2,0.91728896,5.38393e-244,F6: Inflammatory myofibroblast
+PHLDA1,1.1702586,1.18702e-238,F6: Inflammatory myofibroblast
+HLA-A,0.7762304,8.90556e-239,F6: Inflammatory myofibroblast
+ARHGAP24,1.201702,5.40948e-238,F6: Inflammatory myofibroblast
+EDNRA,1.5635837,1.44003e-237,F6: Inflammatory myofibroblast
+LMCD1,1.5772519,3.04597e-236,F6: Inflammatory myofibroblast
+MIR4435-2HG,1.2124777,2.43539e-235,F6: Inflammatory myofibroblast
+GRAMD1A,1.6693207,8.94930e-235,F6: Inflammatory myofibroblast
+ETV6,1.1696799,1.03896e-230,F6: Inflammatory myofibroblast
+LY6E,0.86272395,9.49154e-227,F6: Inflammatory myofibroblast
+NOTCH3,1.939418,1.16700e-225,F6: Inflammatory myofibroblast
+PSME2,1.0024394,3.00705e-224,F6: Inflammatory myofibroblast
+F3,2.4554906,2.81485e-223,F6: Inflammatory myofibroblast
+PTMS,0.768319,5.00126e-224,F6: Inflammatory myofibroblast
+ITGA1,1.5597681,9.24297e-223,F6: Inflammatory myofibroblast
+ISG15,1.3648654,5.87803e-222,F6: Inflammatory myofibroblast
+PDGFRB,0.8301962,1.53522e-222,F6: Inflammatory myofibroblast
+HLA-F,1.2691072,5.53264e-220,F6: Inflammatory myofibroblast
+RBPMS,1.2313572,1.13899e-218,F6: Inflammatory myofibroblast
+TMEM165,0.93980503,9.69310e-219,F6: Inflammatory myofibroblast
+CACNA1C,1.1128141,1.00202e-217,F6: Inflammatory myofibroblast
+COL5A1,0.7417554,5.19657e-218,F6: Inflammatory myofibroblast
+PAG1,1.5866561,4.12175e-214,F6: Inflammatory myofibroblast
+COL1A1,2.2306933,0.00000e+00,F7: Myofibroblast
+COL1A2,2.2047234,0.00000e+00,F7: Myofibroblast
+SPARC,1.99527,0.00000e+00,F7: Myofibroblast
+COL3A1,1.8008479,0.00000e+00,F7: Myofibroblast
+CTHRC1,2.3359032,0.00000e+00,F7: Myofibroblast
+COL5A1,1.8954477,0.00000e+00,F7: Myofibroblast
+PRDX4,2.5311801,0.00000e+00,F7: Myofibroblast
+OGN,3.4726238,0.00000e+00,F7: Myofibroblast
+ASPN,2.4268184,0.00000e+00,F7: Myofibroblast
+COL14A1,1.7988192,0.00000e+00,F7: Myofibroblast
+COL5A2,1.284501,0.00000e+00,F7: Myofibroblast
+SFRP2,1.9098601,0.00000e+00,F7: Myofibroblast
+GXYLT2,2.1567233,0.00000e+00,F7: Myofibroblast
+PRSS23,2.2808368,0.00000e+00,F7: Myofibroblast
+ADAM12,2.052579,0.00000e+00,F7: Myofibroblast
+HTRA1,1.4398735,0.00000e+00,F7: Myofibroblast
+MDK,1.8253778,0.00000e+00,F7: Myofibroblast
+COPZ2,1.8701892,0.00000e+00,F7: Myofibroblast
+MFAP5,2.7368667,0.00000e+00,F7: Myofibroblast
+MIR99AHG,2.0284996,0.00000e+00,F7: Myofibroblast
+PPIC,1.4469078,0.00000e+00,F7: Myofibroblast
+LUM,1.2852353,0.00000e+00,F7: Myofibroblast
+MMP23B,2.0597858,0.00000e+00,F7: Myofibroblast
+CCDC80,1.3920984,0.00000e+00,F7: Myofibroblast
+FAP,1.5239515,0.00000e+00,F7: Myofibroblast
+MARCKS,1.3815775,0.00000e+00,F7: Myofibroblast
+COL12A1,1.4962387,0.00000e+00,F7: Myofibroblast
+CENPP,2.3820546,0.00000e+00,F7: Myofibroblast
+SEPTIN11,1.5109216,0.00000e+00,F7: Myofibroblast
+COL11A1,2.8984735,0.00000e+00,F7: Myofibroblast
+PLXDC2,1.5630836,0.00000e+00,F7: Myofibroblast
+PPP1R14B,1.9098611,0.00000e+00,F7: Myofibroblast
+KIF26B,2.49664,0.00000e+00,F7: Myofibroblast
+KRT10,1.39174,0.00000e+00,F7: Myofibroblast
+LGR4,2.253887,0.00000e+00,F7: Myofibroblast
+POSTN,1.4333525,0.00000e+00,F7: Myofibroblast
+FN1,1.1769091,0.00000e+00,F7: Myofibroblast
+BNC2,1.7537265,0.00000e+00,F7: Myofibroblast
+ELN,1.8135302,0.00000e+00,F7: Myofibroblast
+BCKDHB,2.5661256,0.00000e+00,F7: Myofibroblast
+HMCN1,1.5159303,0.00000e+00,F7: Myofibroblast
+GOLM1,1.7217025,0.00000e+00,F7: Myofibroblast
+LOX,1.4756968,0.00000e+00,F7: Myofibroblast
+SULF2,1.8486274,0.00000e+00,F7: Myofibroblast
+BGN,1.198804,0.00000e+00,F7: Myofibroblast
+H19,4.498432,0.00000e+00,F7: Myofibroblast
+COL8A1,1.8716991,0.00000e+00,F7: Myofibroblast
+CD99,1.0099342,0.00000e+00,F7: Myofibroblast
+NREP,1.436919,0.00000e+00,F7: Myofibroblast
+DPT,1.1386058,0.00000e+00,F7: Myofibroblast
+SMYD3,1.676233,0.00000e+00,F7: Myofibroblast
+PTN,1.501669,0.00000e+00,F7: Myofibroblast
+CERCAM,1.3579024,0.00000e+00,F7: Myofibroblast
+IGF1,1.9578431,0.00000e+00,F7: Myofibroblast
+RASAL2,1.4645798,0.00000e+00,F7: Myofibroblast
+PIEZO2,2.0730755,0.00000e+00,F7: Myofibroblast
+NRG1,2.7143037,0.00000e+00,F7: Myofibroblast
+PPIB,0.8941524,0.00000e+00,F7: Myofibroblast
+IGFBP6,1.6754459,0.00000e+00,F7: Myofibroblast
+PALLD,1.1739303,0.00000e+00,F7: Myofibroblast
+CPE,1.3872732,0.00000e+00,F7: Myofibroblast
+PRKG1,1.2977244,0.00000e+00,F7: Myofibroblast
+TTC3,1.0334327,0.00000e+00,F7: Myofibroblast
+ITGBL1,1.4145417,0.00000e+00,F7: Myofibroblast
+TENM3,1.764915,0.00000e+00,F7: Myofibroblast
+SGCD,1.3392756,0.00000e+00,F7: Myofibroblast
+TSPAN13,2.553722,0.00000e+00,F7: Myofibroblast
+SSR4,1.005466,0.00000e+00,F7: Myofibroblast
+MFAP4,1.0664054,0.00000e+00,F7: Myofibroblast
+TXNL4A,1.4126381,0.00000e+00,F7: Myofibroblast
+CCN2,1.3483568,0.00000e+00,F7: Myofibroblast
+ARHGAP28,2.3697536,0.00000e+00,F7: Myofibroblast
+PRICKLE1,1.6637743,0.00000e+00,F7: Myofibroblast
+PDGFRL,1.234624,0.00000e+00,F7: Myofibroblast
+METRN,1.9639505,0.00000e+00,F7: Myofibroblast
+EDIL3,1.2154009,0.00000e+00,F7: Myofibroblast
+MRPS6,1.4367664,0.00000e+00,F7: Myofibroblast
+KIAA1217,1.2963613,0.00000e+00,F7: Myofibroblast
+TIMP1,0.9388238,0.00000e+00,F7: Myofibroblast
+AUTS2,1.1628613,0.00000e+00,F7: Myofibroblast
+SULF1,1.6824774,0.00000e+00,F7: Myofibroblast
+MGP,1.0375048,0.00000e+00,F7: Myofibroblast
+MXRA5,1.0695505,0.00000e+00,F7: Myofibroblast
+PDZRN4,3.2011318,0.00000e+00,F7: Myofibroblast
+FOXP1,1.078305,0.00000e+00,F7: Myofibroblast
+SEC61G,0.8433767,0.00000e+00,F7: Myofibroblast
+PCOLCE,0.76491606,0.00000e+00,F7: Myofibroblast
+OSTC,0.8781052,0.00000e+00,F7: Myofibroblast
+LINC02544,2.7890394,0.00000e+00,F7: Myofibroblast
+FBN1,0.8814653,0.00000e+00,F7: Myofibroblast
+VEGFB,1.3216959,0.00000e+00,F7: Myofibroblast
+BRI3,0.9658423,0.00000e+00,F7: Myofibroblast
+JUND,0.88506216,0.00000e+00,F7: Myofibroblast
+RUNX2,1.5281537,0.00000e+00,F7: Myofibroblast
+ADAMTS6,2.6207325,0.00000e+00,F7: Myofibroblast
+STARD4-AS1,2.4558377,0.00000e+00,F7: Myofibroblast
+PHPT1,0.89385283,0.00000e+00,F7: Myofibroblast
+PDE1A,2.1708562,0.00000e+00,F7: Myofibroblast
+C1QTNF6,1.3843178,0.00000e+00,F7: Myofibroblast
+PTGER3,1.5859609,0.00000e+00,F7: Myofibroblast
+POSTN,3.7974658,0.00000e+00,F8: Fascia-like myofibroblast
+SPON2,3.5428421,0.00000e+00,F8: Fascia-like myofibroblast
+CADM1,3.7399058,0.00000e+00,F8: Fascia-like myofibroblast
+TGFBI,3.38161,0.00000e+00,F8: Fascia-like myofibroblast
+FN1,2.3818934,0.00000e+00,F8: Fascia-like myofibroblast
+CAMK1D,3.1290152,0.00000e+00,F8: Fascia-like myofibroblast
+TAGLN,3.7701232,0.00000e+00,F8: Fascia-like myofibroblast
+FABP5,4.6802645,0.00000e+00,F8: Fascia-like myofibroblast
+RPS17,2.038429,0.00000e+00,F8: Fascia-like myofibroblast
+SFRP4,3.5803206,0.00000e+00,F8: Fascia-like myofibroblast
+DKK3,2.7743852,0.00000e+00,F8: Fascia-like myofibroblast
+RPL13A,1.7877821,0.00000e+00,F8: Fascia-like myofibroblast
+TPM1,2.304859,0.00000e+00,F8: Fascia-like myofibroblast
+PDLIM3,3.9170084,0.00000e+00,F8: Fascia-like myofibroblast
+C1QTNF3,3.1645162,0.00000e+00,F8: Fascia-like myofibroblast
+EDIL3,2.6762483,0.00000e+00,F8: Fascia-like myofibroblast
+COL1A1,1.7105033,0.00000e+00,F8: Fascia-like myofibroblast
+COL5A2,1.5957056,0.00000e+00,F8: Fascia-like myofibroblast
+PDLIM7,2.9120247,0.00000e+00,F8: Fascia-like myofibroblast
+DLG1,2.8377407,0.00000e+00,F8: Fascia-like myofibroblast
+MALAT1,1.5753797,0.00000e+00,F8: Fascia-like myofibroblast
+SPARCL1,2.3112514,0.00000e+00,F8: Fascia-like myofibroblast
+LHFPL6,1.7989981,0.00000e+00,F8: Fascia-like myofibroblast
+RHOC,1.9936419,0.00000e+00,F8: Fascia-like myofibroblast
+CNN3,1.7326602,0.00000e+00,F8: Fascia-like myofibroblast
+RPL27A,1.4517398,0.00000e+00,F8: Fascia-like myofibroblast
+TUBA1A,2.0158017,0.00000e+00,F8: Fascia-like myofibroblast
+CRABP2,1.9652675,0.00000e+00,F8: Fascia-like myofibroblast
+COL3A1,1.4187343,0.00000e+00,F8: Fascia-like myofibroblast
+LRRC17,3.0686107,0.00000e+00,F8: Fascia-like myofibroblast
+ITGB1,1.564998,0.00000e+00,F8: Fascia-like myofibroblast
+ASPN,3.0039992,0.00000e+00,F8: Fascia-like myofibroblast
+P4HA3,2.9807594,0.00000e+00,F8: Fascia-like myofibroblast
+NIBAN1,3.2852974,0.00000e+00,F8: Fascia-like myofibroblast
+TUBB2B,3.2710128,0.00000e+00,F8: Fascia-like myofibroblast
+FOXP1,2.0690372,0.00000e+00,F8: Fascia-like myofibroblast
+ADAM12,2.1642318,0.00000e+00,F8: Fascia-like myofibroblast
+TPPP3,2.8390326,0.00000e+00,F8: Fascia-like myofibroblast
+RPS20,1.5679573,0.00000e+00,F8: Fascia-like myofibroblast
+CAPZB,1.5715346,0.00000e+00,F8: Fascia-like myofibroblast
+PDPN,2.0664663,0.00000e+00,F8: Fascia-like myofibroblast
+PKM,1.6161861,0.00000e+00,F8: Fascia-like myofibroblast
+TPM4,1.4161328,0.00000e+00,F8: Fascia-like myofibroblast
+CASC15,2.8890164,0.00000e+00,F8: Fascia-like myofibroblast
+HIP1,2.674073,0.00000e+00,F8: Fascia-like myofibroblast
+MYL6,1.189563,0.00000e+00,F8: Fascia-like myofibroblast
+THBS4,3.141329,0.00000e+00,F8: Fascia-like myofibroblast
+ACTG1,1.2392994,0.00000e+00,F8: Fascia-like myofibroblast
+GABARAPL2,1.7437463,0.00000e+00,F8: Fascia-like myofibroblast
+ACAN,3.4867,0.00000e+00,F8: Fascia-like myofibroblast
+CAPG,2.2524354,0.00000e+00,F8: Fascia-like myofibroblast
+CTHRC1,1.7153925,0.00000e+00,F8: Fascia-like myofibroblast
+ACTA2,3.170795,0.00000e+00,F8: Fascia-like myofibroblast
+PLAU,2.717268,0.00000e+00,F8: Fascia-like myofibroblast
+DGKI,2.9079242,0.00000e+00,F8: Fascia-like myofibroblast
+LGALS1,1.4059808,0.00000e+00,F8: Fascia-like myofibroblast
+SPAG9,1.8210143,0.00000e+00,F8: Fascia-like myofibroblast
+TRIO,1.8690945,0.00000e+00,F8: Fascia-like myofibroblast
+ARL4C,2.1018853,0.00000e+00,F8: Fascia-like myofibroblast
+ATP1B1,3.2165797,0.00000e+00,F8: Fascia-like myofibroblast
+CSRP2,1.9630514,0.00000e+00,F8: Fascia-like myofibroblast
+HTRA1,1.3662772,0.00000e+00,F8: Fascia-like myofibroblast
+LRRFIP1,1.739903,0.00000e+00,F8: Fascia-like myofibroblast
+TAGLN2,1.4626133,0.00000e+00,F8: Fascia-like myofibroblast
+TNFRSF12A,1.824729,0.00000e+00,F8: Fascia-like myofibroblast
+PLPP4,2.7088833,0.00000e+00,F8: Fascia-like myofibroblast
+GPC6,2.1918013,0.00000e+00,F8: Fascia-like myofibroblast
+ARPC2,1.3665786,0.00000e+00,F8: Fascia-like myofibroblast
+CALD1,1.1833436,0.00000e+00,F8: Fascia-like myofibroblast
+NCAM1,3.6327353,0.00000e+00,F8: Fascia-like myofibroblast
+ACTB,1.2748365,0.00000e+00,F8: Fascia-like myofibroblast
+ENAH,1.5476233,0.00000e+00,F8: Fascia-like myofibroblast
+CFL1,1.2400322,0.00000e+00,F8: Fascia-like myofibroblast
+TPM2,1.6332642,0.00000e+00,F8: Fascia-like myofibroblast
+NBL1,1.4518698,0.00000e+00,F8: Fascia-like myofibroblast
+ENO1,1.3985786,0.00000e+00,F8: Fascia-like myofibroblast
+CRY1,2.0596657,0.00000e+00,F8: Fascia-like myofibroblast
+LOXL2,1.716715,0.00000e+00,F8: Fascia-like myofibroblast
+PGM2L1,2.620942,0.00000e+00,F8: Fascia-like myofibroblast
+FNDC1,2.2222972,0.00000e+00,F8: Fascia-like myofibroblast
+MYL9,1.4720716,0.00000e+00,F8: Fascia-like myofibroblast
+ANGPTL2,1.8625422,0.00000e+00,F8: Fascia-like myofibroblast
+TMED9,1.4776655,0.00000e+00,F8: Fascia-like myofibroblast
+EVI2A,3.837005,0.00000e+00,F8: Fascia-like myofibroblast
+SYCE1L,2.8354263,0.00000e+00,F8: Fascia-like myofibroblast
+ITGA10,3.3948631,0.00000e+00,F8: Fascia-like myofibroblast
+AKAP13,1.4193492,0.00000e+00,F8: Fascia-like myofibroblast
+GOLIM4,1.6330067,0.00000e+00,F8: Fascia-like myofibroblast
+PFN1,1.2055415,0.00000e+00,F8: Fascia-like myofibroblast
+ACTN1,1.490603,0.00000e+00,F8: Fascia-like myofibroblast
+CTSB,1.3845613,0.00000e+00,F8: Fascia-like myofibroblast
+PTPRD,2.4800363,0.00000e+00,F8: Fascia-like myofibroblast
+LSP1,1.9702451,0.00000e+00,F8: Fascia-like myofibroblast
+UBE2E1,1.6646061,0.00000e+00,F8: Fascia-like myofibroblast
+CD70,3.7735188,0.00000e+00,F8: Fascia-like myofibroblast
+KCNMA1,2.710709,0.00000e+00,F8: Fascia-like myofibroblast
+RPLP2,0.77414787,0.00000e+00,F8: Fascia-like myofibroblast
+PSD3,1.5101352,0.00000e+00,F8: Fascia-like myofibroblast
+RABAC1,1.075763,0.00000e+00,F8: Fascia-like myofibroblast
+RLF,1.7547435,0.00000e+00,F8: Fascia-like myofibroblast
+COMP,4.210525,0.00000e+00,F_Fascia
+THBS4,4.40946,0.00000e+00,F_Fascia
+SFRP4,3.40453,0.00000e+00,F_Fascia
+LHFPL6,2.1232116,0.00000e+00,F_Fascia
+MALAT1,1.4320302,0.00000e+00,F_Fascia
+CD9,2.1785376,0.00000e+00,F_Fascia
+DKK3,2.2870576,9.25140e-296,F_Fascia
+S100A4,1.3086138,5.85341e-273,F_Fascia
+CADM1,2.176897,5.30988e-269,F_Fascia
+PRELP,2.887861,6.34642e-254,F_Fascia
+CDH13,2.5596805,5.14599e-245,F_Fascia
+AQP1,2.337244,4.81833e-232,F_Fascia
+RPL13A,1.1519212,1.31427e-228,F_Fascia
+IGFBP6,3.0464706,4.58461e-223,F_Fascia
+MGP,1.5463631,3.91201e-222,F_Fascia
+ADIRF,1.6110848,4.83297e-221,F_Fascia
+P4HA3,2.2837029,3.54040e-212,F_Fascia
+C1QTNF3,2.0839648,1.62222e-209,F_Fascia
+ASPN,2.6145942,3.80886e-202,F_Fascia
+CAMK1D,1.7553657,1.80116e-189,F_Fascia
+MFGE8,1.87796,1.41778e-186,F_Fascia
+CCN3,3.5656614,2.51623e-176,F_Fascia
+OAF,2.4430404,1.25255e-174,F_Fascia
+FNDC1,2.085148,4.04652e-172,F_Fascia
+RPS17,1.1515987,7.89024e-170,F_Fascia
+CILP2,3.7344131,1.60466e-167,F_Fascia
+FMOD,1.6823578,6.69676e-165,F_Fascia
+SPON2,1.3979038,1.63350e-165,F_Fascia
+RPS20,1.0986509,3.46266e-164,F_Fascia
+COL14A1,1.3307773,4.01291e-160,F_Fascia
+FN1,1.2343749,9.44314e-159,F_Fascia
+ACTB,0.9640067,1.86057e-155,F_Fascia
+AEBP1,1.1160355,2.48829e-151,F_Fascia
+PDGFRL,1.6489707,4.77996e-149,F_Fascia
+TM4SF1,3.8058374,2.14928e-148,F_Fascia
+FOXP1,1.3789443,4.57002e-139,F_Fascia
+COL12A1,1.3222148,1.57157e-137,F_Fascia
+GABARAPL2,1.3936877,1.37817e-136,F_Fascia
+SOX5,3.2607954,3.51614e-135,F_Fascia
+ACAN,2.1666877,1.08143e-134,F_Fascia
+PSD3,1.4335655,2.75442e-134,F_Fascia
+KCNMA1,2.2064831,1.01012e-133,F_Fascia
+SEMA3C,1.8370051,2.84143e-129,F_Fascia
+ANGPTL2,1.6013712,4.54226e-129,F_Fascia
+SCRG1,4.4375377,9.69664e-128,F_Fascia
+RPL31,0.93275666,3.76181e-127,F_Fascia
+HIP1,1.7547174,1.46569e-126,F_Fascia
+TGFBI,1.3531042,1.92866e-126,F_Fascia
+CRIP1,1.2102804,2.99965e-126,F_Fascia
+NDFIP1,1.2824308,1.03616e-125,F_Fascia
+NBL1,1.1857702,4.84874e-123,F_Fascia
+BMPR1B,2.7216666,5.10726e-120,F_Fascia
+CLU,1.9845396,6.31332e-120,F_Fascia
+PRG4,4.7547364,2.83543e-118,F_Fascia
+PDLIM3,1.6149781,9.17000e-115,F_Fascia
+PIEZO2,2.0392423,4.48394e-112,F_Fascia
+CRISPLD1,2.1913798,1.08762e-111,F_Fascia
+IGF1,1.823736,7.11699e-109,F_Fascia
+PTGIS,1.9920648,8.20805e-107,F_Fascia
+MATN2,2.3173106,1.09819e-106,F_Fascia
+DGKI,1.85427,3.96071e-105,F_Fascia
+NIBAN1,1.6868916,9.25474e-105,F_Fascia
+PLPP1,1.1459891,9.55363e-105,F_Fascia
+LUM,1.009897,1.21190e-104,F_Fascia
+MT1X,1.2483386,3.27123e-101,F_Fascia
+PDLIM5,1.4886847,2.07686e-97,F_Fascia
+RPL7,0.83851016,2.79900e-97,F_Fascia
+CCN5,1.6571542,1.09651e-96,F_Fascia
+ENPP1,2.4653409,1.80472e-95,F_Fascia
+MMP2,0.8247049,1.34497e-95,F_Fascia
+CCN2,1.587395,2.53289e-95,F_Fascia
+PTN,1.4422106,8.05698e-95,F_Fascia
+RPL27A,0.7721324,5.31254e-94,F_Fascia
+LIMA1,1.0979769,3.84734e-92,F_Fascia
+CRTAC1,4.6007614,4.12027e-91,F_Fascia
+SULF1,1.7308729,4.50670e-91,F_Fascia
+MTSS1,2.0351002,4.97643e-91,F_Fascia
+DPP4,1.6044074,4.77403e-89,F_Fascia
+ANGPTL7,7.8115973,1.26678e-88,F_Fascia
+CAPG,1.3091903,1.05314e-88,F_Fascia
+CCPG1,1.2548851,1.15396e-88,F_Fascia
+EZR,2.2224233,1.64055e-88,F_Fascia
+THBS3,1.6330616,2.13615e-88,F_Fascia
+GALNT15,2.3800054,3.99904e-87,F_Fascia
+FXYD6,1.7433507,1.55697e-86,F_Fascia
+EDIL3,1.1539118,1.89576e-86,F_Fascia
+RBP4,2.9855456,2.02794e-84,F_Fascia
+ADK,1.2636675,1.63351e-84,F_Fascia
+DLC1,1.1641797,1.42598e-83,F_Fascia
+ANKH,1.6323258,2.65514e-83,F_Fascia
+RETREG1,1.4935449,4.76988e-83,F_Fascia
+UACA,1.4934962,4.87864e-83,F_Fascia
+CPXM2,2.2270007,7.33126e-83,F_Fascia
+CNN3,0.86480355,9.16399e-82,F_Fascia
+PPP3CA,1.1560755,2.61906e-81,F_Fascia
+GALNT18,2.6094947,1.88887e-80,F_Fascia
+ACTG1,0.665369,2.58931e-80,F_Fascia
+CDO1,2.9316754,7.27330e-80,F_Fascia
+ELMO1,2.0210888,3.49995e-77,F_Fascia
+COL8A1,1.4285455,8.53552e-77,F_Fascia
