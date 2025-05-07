@@ -8,4 +8,4 @@ ipython_config.py
 
 # General
 .DS_Store
-*.h5ad
+*.h5ad*.ipynb filter=drop_large_notebooks
