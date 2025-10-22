@@ -5,7 +5,7 @@ Skin fibroblast subtypes are uncertain, and different studies typically use dist
 "Integration" contains scripts used for integration\
 "Figures" contains scripts for producing figures \
 
-Data (scRNA and Xenium) can be visualized and downloaded here: https://app.cellatlas.io/skin-fibroblast/ https://collections.cellatlas.io/skin-fibroblast (
+Data (scRNA and Xenium) can be visualized and downloaded here: https://app.cellatlas.io/skin-fibroblast/ https://collections.cellatlas.io/skin-fibroblast 
 
 <h1 align="center">
     <picture>
