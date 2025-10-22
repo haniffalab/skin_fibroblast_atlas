@@ -5,7 +5,7 @@ Skin fibroblast subtypes are uncertain, and different studies typically use dist
 "Integration" contains scripts used for integration\
 "Figures" contains scripts for producing figures \
 
-Data (scRNA and Xenium) can be visualized and downloaded here (currently password protected (password in manuscript under submission)): https://app.cellatlas.io/skin-fibroblast/ https://collections.cellatlas.io/skin-fibroblast (
+Data (scRNA and Xenium) can be visualized and downloaded here: https://app.cellatlas.io/skin-fibroblast/ https://collections.cellatlas.io/skin-fibroblast (
 
 <h1 align="center">
     <picture>
@@ -18,7 +18,7 @@ Data (scRNA and Xenium) can be visualized and downloaded here (currently passwor
 
 ## Citation
 
-Please cite our pre-print if you use this work. TBC
+Steele, L. et al. A single-cell and spatial genomics atlas of human skin fibroblasts reveals shared disease-related fibroblast subtypes across tissues. Nat. Immunol. 1–14 (2025).
 
 
  ### Contact
